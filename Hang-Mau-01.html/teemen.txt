@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hàng Mẫu > Jacket</title>
+        <meta charset="utf-8">
+        <link href="https://i.pinimg.com/originals/f1/20/70/f1207053d8fa4618e2f4f989b43c068f.gif" rel="shotcut icon"/>
+        <link href="text.css" rel="stylesheet"/>
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <section class=header>
+            <ul>
+                <li class="logo"><img src="https://i.pinimg.com/originals/f1/20/70/f1207053d8fa4618e2f4f989b43c068f.gif" alt="hình" style="width:200px;height:250px;"></li>                            
+                <li class="logos"><img src="https://media3.giphy.com/media/4ad2mRRSmVQkb4N7sC/giphy.gif?cid=6c09b9525f1967130acc7d1633f39798c53c164a81dba64e&rid=giphy.gif&ct=g" alt="sadjkajsh"; style="text-align:center; width: 750px; height: 250px;"></li>
+                <li class="search"><from><input type="search" name="search"  placeholder="Search..." style="width: 150%; height: 10%;"/></from></li>  
+                <!--<li><i class="fa fa-search" style="margin-left: 60px; margin-top: 5px;"></i></li>-->
+            </ul>
+        </section>
+        <h1 style="color:cornflowerblue; margin-left: 35px;">Clothing Store</h1>
+        <div class="menu" id="demo">
+            <h2 style="color: white;">MENU</h2>
+                <dl style="color: white; font-size: 20px; font-weight: 900;">
+                    <dt>Men</dt>
+                        <li class="jacket"><a href="jacket.html" style="color: #ff8095;">Jacket Men</a></li>
+                        <li style="color: #ff8095;"><a href="#" style="color: #ff8095;">Tee Men</a></li>
+                        <li>Short Men</li>
+                    <dt>Women</dt>
+                        <li>Jacket women</li>
+                        <li>Tee Women</li>
+                        <li>Short Women</li>
+                </dl>
+            </div>
+
+            <div class=main>
+                <h1 style="color:cornflowerblue; margin-left: 4%;">Tee Men</h1>
+                <ul class="shop">
+                    <li class="shops">
+                        <table border="2" class="albumjacket">
+                            <tr>
+                                <td class="tee">
+                                    <ul>
+                                        <li><img src="https://thumbs.gfycat.com/CheapSparklingAntarcticgiantpetrel-size_restricted.gif" alt="jacket1"width="279" height="387"></li>
+                                        <li class="sale" style="font-size: 35px;">$300<a href="#" class="cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                        <li style="text-align: center;"><form><input type="button" name="BUY" value="BUY NOW" style="font-size: 20px; background-color: black; color: white; margin-bottom: 10px; padding: 5px 20px;"/></form></li>
+                                    </ul>
+                                </td>
+                                <td class="tee">
+                                    <ul>
+                                        <li><img src="https://media3.giphy.com/media/jQanDEDfFJRQSyaH0E/source.gif" alt="jacket2" width="279" height="387"></li>
+                                        <li class="sale" style="font-size: 35px;">$300<a href="#" class="cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                        <li style="text-align: center;"><form><input type="button" name="BUY" value="BUY NOW" style="font-size: 20px; background-color: black; color: white; margin-bottom: 10px; padding: 5px 20px;"/></form></li>
+                                    </ul>
+                                </td>
+                                <td class="tee">
+                                    <ul>
+                                        <li><img src="https://media.baamboozle.com/uploads/images/39329/1614946017_737182_gif-url.gif" alt="jacket3" width="279" height="387"></li>
+                                        <li class="sale" style="font-size: 35px;">$300<a href="#" class="cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                        <li style="text-align: center;"><form><input type="button" name="BUY" value="BUY NOW" style="font-size: 20px; background-color: black; color: white; margin-bottom: 10px; padding: 5px 20px;"/></form></li>
+                                    </ul>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="tee">
+                                    <ul>
+                                        <li><img src="https://media2.giphy.com/media/3ohzdM2ijZbCKrX6wg/giphy.gif" alt="jacket4" width="279" height="387"></li>
+                                        <li class="sale" style="font-size: 35px;">$300<a href="#" class="cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                        <li style="text-align: center;"><form><input type="button" name="BUY" value="BUY NOW" style="font-size: 20px; background-color: black; color: white; margin-bottom: 10px; padding: 5px 20px;"/></form></li>
+                                    </ul>
+                                </td>
+                                <td class="tee">
+                                    <ul>
+                                        <li><img src="https://media.baamboozle.com/uploads/images/61765/1618488588_436992.gif" alt="jacket5" width="279" height="387"></li>
+                                        <li class="sale" style="font-size: 35px;">$300<a href="#" class="cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                        <li style="text-align: center;"><form><input type="button" name="BUY" value="BUY NOW" style="font-size: 20px; background-color: black; color: white; margin-bottom: 10px; padding: 5px 20px;"/></form></li>
+                                    </ul>
+                                </td>
+                                <td class="tee">
+                                    <ul>
+                                        <li><img src="https://media.baamboozle.com/uploads/images/197603/1618062223_39618.gif" alt="jacket6" width="279" height="387"></li>
+                                        <li class="sale" style="font-size: 35px;">$300<a href="#" class="cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                        <li style="text-align: center;"><form><input type="button" name="BUY" value="BUY NOW" style="font-size: 20px; background-color: black; color: white; margin-bottom: 10px; padding: 5px 20px;"/></form></li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                </ul>
+            </div>
+    
+    </body>
+
+</html>

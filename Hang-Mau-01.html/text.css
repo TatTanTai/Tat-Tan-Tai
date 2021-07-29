@@ -1,0 +1,205 @@
+*{
+    box-sizing:border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: pink;
+}
+section.header > ul.market{
+    list-style-type: none;
+    display: flex;
+}
+section.header > ul.market > li.search > ul.infor{
+    list-style-type: none;
+}
+section.header > ul > li.logos{
+    margin-left: 130px;
+} 
+section.header > ul > li.logo{
+    border: 5px solid black;
+}
+ul.infor > li.info{
+    font-size: 15px;
+    padding: 7px 5px;
+}
+.menu 
+{
+    width: 25%;
+    float: left;
+    padding: 50px;
+    border: 5px solid #ff8095;
+
+}
+.main
+{
+    margin-left: 50px;
+    width: 70%;
+    float: left;
+    padding: 0px;
+}
+h1.main{
+    padding-left: 410px;
+    margin: 0%;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+h1.mainn{
+    padding-left: 290px;
+    margin: 10px 0;
+    font-size: 50px;
+}
+section.end
+{
+    width: 100%;
+}
+.right
+{
+    position: absolute;
+    right: 10px;
+    width: 300px;
+    padding: 10px;
+}
+h1.content > a{
+    color: cornflowerblue;
+    text-decoration: none;
+    font-size: 35px;
+}
+h1.content > a:hover{
+    color: white;
+}
+li.search{
+    margin-left: 50px;
+    padding: 0%;
+}
+div.rowup > a.up{
+    position: fixed;
+    border-radius: 60%;
+    border: 5px solid white;
+    padding: 1px 1px;
+}
+div.rowup > a.up:hover{
+    background-color: white;
+}
+div.rowup > a.up > i{
+    color: white;
+    border-radius: 60%;
+    padding: 2px 3px;
+}
+
+dl > li.jacket > a{
+    text-decoration: none;
+    color: white;
+}
+dl > li.jacket > a:hover{
+    color: #ff8095;
+    background-color: #ffe6ea;
+}
+dl > li.teemen > a{
+    text-decoration: none;
+    color: white;
+}
+dl > li.teemen > a:hover{
+    color: #ff8095;
+    background-color: #ffe6ea;
+}
+dl > li.shortmen > a{
+    text-decoration: none;
+    color: white;
+}
+dl > li.shortmen > a:hover{
+    color: #ff8095;
+    background-color: #ffe6ea;
+}
+dl > li.jacketwomen > a{
+    text-decoration: none;
+    color: white;
+}
+dl > li.jacketwomen > a:hover{
+    color: #ff8095;
+    background-color: #ffe6ea;
+}
+dl > li.teewomen > a{
+    text-decoration: none;
+    color: white;
+}
+dl > li.teewomen > a:hover{
+    color: #ff8095;
+    background-color: #ffe6ea;
+}
+dl > li.dress > a{
+    text-decoration: none;
+    color: white;
+}
+dl > li.dress > a:hover{
+    color: #ff8095;
+    background-color: #ffe6ea;
+}
+ul.shop > li > table.albumjacket{
+    border-collapse: collapse;
+    border: 5px solid #ff8095;
+}
+ul.shop > li > table.albumjacket > tr > td{
+    border: 5px solid #ff8095;
+}
+ul.shop > li > table.albumteemen{
+    border-collapse: collapse;
+    border: 5px solid #ff8095;
+}
+ul.shop > li > table.albumteemen > tr > td{
+    border: 5px solid #ff8095;
+}
+ul.shop > li > table.albumshortmen{
+    border-collapse: collapse;
+    border: 5px solid #ff8095;
+}
+ul.shop > li > table.albumshortmen > tr > td{
+    border: 5px solid #ff8095;
+}
+ul.shop > li > table.albumjacketwomen{
+    border-collapse: collapse;
+    border: 5px solid #ff8095;
+}
+ul.shop > li > table.albumjacketwomen > tr > td{
+    border: 5px solid #ff8095;
+}
+ul.shop > li > table.albumteemen{
+    border-collapse: collapse;
+    border: 5px solid #ff8095;
+}
+ul.shop > li > table.albumteemen > tr > td{
+    border: 5px solid #ff8095;
+}
+ul.shop > li > table.albumdress{
+    border-collapse: collapse;
+    border: 5px solid #ff8095;
+}
+ul.shop > li > table.albumdress > tr > td{
+    border: 5px solid #ff8095;
+}
+td.tee > ul{
+    list-style-type: none;
+    margin-left: 0%;
+    padding-left: 0%;
+}
+ul.shop{
+    list-style-type: none;
+    margin-top: 0%;
+}
+li.sale{
+    font-size: 25px;
+    text-align: center;
+    color: #ff8095;
+    font-weight: 600;
+}
+a.cart{
+    color: #ff8095;
+}
+a.cart:hover{
+    color: white;
+    
+}
+li > form > [input].buy{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+
+
